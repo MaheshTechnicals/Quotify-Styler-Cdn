@@ -24,7 +24,6 @@
     <li>Select which style you want to apply from below.</li>
     <li>Copy the code for that style.</li>
     <li>Paste the following CSS code before the `</head>` tag of your website:</li>
-    
     <li>Done.</li>
   </ol>
 
