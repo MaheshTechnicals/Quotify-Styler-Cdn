@@ -92,5 +92,12 @@
   <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-3/main.js"></script>
   ```
  
-  
+  ## Donate
+
+If you appreciate my work and would like to support more projects like this, you can contribute through the following methods:
+
+**UPI ID:** maheshtechnicals@apl
+
+**PayPal:** [Donate via PayPal](https://www.paypal.com/paypalme/Varma161)
+
 </div>
