@@ -53,4 +53,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-2/main.css">
 ```
   
+  ### JS:
+  
+  ```html
+  <src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-1/main.js"></script>
+  ```
+  
+  
 </div>
