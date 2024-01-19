@@ -1,15 +1,11 @@
 <div>
 
-<style>
-  img{
-  margin-top:20px;
-  margin-bottom: 20px;
-  } 
-</style>
   
   <h1>What is Quotify Styler</h1>
-    ![Your Image Alt Text](res/posters/ban1.jpg)
-    <p style="margin: 20px 0; width: 100%;"></p>
+  
+  
+  ![Your Image Alt Text](res/posters/ban1.jpg)
+  <p style="margin: 20px 0; width: 60%;"></p>
     
     </div>
   <p>Quotify Styler is like a magic tool for websites, especially those sharing shayari. It helps make blockquote tags look awesome without the headache of copying and pasting complicated code. Just use our CDN, and you're good to go! Plus, there are different styles to pick from, so your site can have its own cool vibe effortlessly.</p>
