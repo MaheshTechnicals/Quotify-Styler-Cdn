@@ -1,3 +1,5 @@
+///* Style 2 : Dark Mode . By Mahesh Technicals*/
+
 // Iterate through quote containers and mycard elements
 document.querySelectorAll(".quote-container-Mahesh-Technicals, .mycard, blockquote").forEach((blockquote) => {
   // Modify the text within the blockquote elements
