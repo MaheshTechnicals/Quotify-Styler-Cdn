@@ -8,8 +8,9 @@
 </style>
   
   <h1>What is Quotify Styler</h1>
-    <div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%; magin-top:30px; margin-bottom:30px;" >
-      <img style="height: 100 px; width: 100%;" src="/res/posters/ban1.jpg" alt="">
+    ![Your Image Alt Text](res/posters/ban1.jpg)
+    <p style="margin: 20px 0; width: 100%;"></p>
+    
     </div>
   <p>Quotify Styler is like a magic tool for websites, especially those sharing shayari. It helps make blockquote tags look awesome without the headache of copying and pasting complicated code. Just use our CDN, and you're good to go! Plus, there are different styles to pick from, so your site can have its own cool vibe effortlessly.</p>
 
@@ -37,9 +38,9 @@
   <h3>How To Use:</h3>
   ## Style 1: Design with Backend Image.
   
-  <div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%;">
-        <img style="height: 100 px; width: 60%; margin:30px 0;" src="/res/posters/ban2.jpg" alt="">
-      </div>
+ ![Your Image Alt Text](res/posters/ban1.jpg)
+ <p style="margin: 20px 0; width: 60%;"></p>
+ 
   
   Include the following code in the `<head>` section of your HTML file:
   
@@ -58,6 +59,9 @@
   
   
 ## Style 2: Dark Mode.
+![Your Image Alt Text](res/posters/ban2.jpg)
+<p style="margin: 20px 0; width: 60%;"></p>
+
 
 ### CSS:
 
@@ -75,6 +79,10 @@
   
   ## Style 3 : Light Gray Mode.
   
+  ![Your Image Alt Text](res/posters/ban3.jpg)
+  <p style="margin: 20px 0; width: 60%;"></p>
+  
+  
   ### CSS:
   
   ```html
@@ -87,10 +95,6 @@
   ```html
   <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-3/main.js"></script>
   ```
-  
-![Your Image Alt Text](res/posters/ban2.jpg)
-<p style="margin-top: 20px;"></p>
-
-  
+ 
   
 </div>
