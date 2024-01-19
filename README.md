@@ -44,6 +44,8 @@
   <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-1/main.js"></script>
   ```
   
+  
+  
 ## Style 2: Dark Mode.
 
 ### CSS:
@@ -58,6 +60,8 @@
   ```html
   <src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-2/main.js"></script>
   ```
+  
+  
   ## Style 3 Light Gray Mode.
   
   ### CSS:
