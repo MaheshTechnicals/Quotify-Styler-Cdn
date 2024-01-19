@@ -23,7 +23,7 @@
   <ol>
     <li>Select which style you want to apply from below.</li>
     <li>Copy the code for that style.</li>
-    <li>Paste the CSS code before the &lt;/head&gt; tag & JS code before </body> of your website.</li>
+    <li>Paste the CSS code before the &lt;/head&gt; tag & JS code before lt;/body&gt; of your website.</li>
     
     <li>Done.</li>
   </ol>
