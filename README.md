@@ -28,7 +28,11 @@
   <p>If you are using WordPress, make sure to clear the cache if you have any caching plugin enabled.</p>
   
   <h3>How To Use:</h3>
-  ## Style 1: Design with Backend Image
+  ## Style 1: Design with Backend Image.
+  
+  div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%;">
+        <img style="height: 100 px; width: 60%;" src="/res/posters/ban2.jpg" alt="">
+      </div>
   
   Include the following code in the `<head>` section of your HTML file:
   
