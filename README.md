@@ -30,7 +30,7 @@
   <h3>How To Use:</h3>
   ## Style 1: Design with Backend Image.
   
-  div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%;">
+  <div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%;">
         <img style="height: 100 px; width: 60%;" src="/res/posters/ban2.jpg" alt="">
       </div>
   
