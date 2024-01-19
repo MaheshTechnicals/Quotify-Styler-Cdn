@@ -1,4 +1,11 @@
 <div>
+
+<style>
+  img{
+  margin-top:20px;
+  margin-bottom: 20px;
+  } 
+</style>
   
   <h1>What is Quotify Styler</h1>
     <div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%; magin-top:30px; margin-bottom:30px;" >
