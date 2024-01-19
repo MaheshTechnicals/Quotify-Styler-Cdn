@@ -72,7 +72,7 @@
   ```
     
     ### JS:
-    
+  
     ```html
     <src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-3/main.js"></script>
     ```
