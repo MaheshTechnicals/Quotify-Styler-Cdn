@@ -88,4 +88,9 @@
   <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-3/main.js"></script>
   ```
   
+  ![Your Image Alt Text](res/posters/ban2.jpgl)
+  <p style="margin-top: 20px;"></p>
+  
+  
+  
 </div>
