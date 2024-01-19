@@ -58,7 +58,7 @@
   ### JS:
   
   ```html
-  <src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-2/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-2/main.js"></script>
   ```
   
   
