@@ -62,7 +62,7 @@
   ```
   
   
-  ## Style 3 Light Gray Mode.
+  ## Style 3 : Light Gray Mode.
   
   ### CSS:
   
