@@ -1,6 +1,9 @@
 <div>
   
   <h1>What is Quotify Styler</h1>
+    <div style="display: flex; align-items: center ; justify-content: center; height: 100%; width: 100%;">
+      <img style="height: 100 px; width: 100%;" src="/res/posters/ban1.jpg" alt="">
+    </div>
   <p>Quotify Styler is like a magic tool for websites, especially those sharing shayari. It helps make blockquote tags look awesome without the headache of copying and pasting complicated code. Just use our CDN, and you're good to go! Plus, there are different styles to pick from, so your site can have its own cool vibe effortlessly.</p>
 
   <h2>Features:</h2>
