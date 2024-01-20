@@ -3,7 +3,7 @@
 // Iterate through quote containers and mycard elements
 document.querySelectorAll(".quote-container-Mahesh-Technicals, .mycard, blockquote").forEach((blockquote) => {
   // Modify the text within the blockquote elements
-  let modifiedText = blockquote.innerText.split(",").join(",\n").split("।").join("|\n").slice(1, -1);
+  let modifiedText = blockquote.innerText.split(",").join(",\n").split("।").join("|\n").slice(1);
   blockquote.innerText = modifiedText;
 
   // Create and append action container for each blockquote
