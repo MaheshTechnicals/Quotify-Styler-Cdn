@@ -111,7 +111,25 @@
    <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-4/app.js"></script>
    ```
   
- 
+     ## Style 5 : White Mode.
+     
+     ![Your Image Alt Text](res/posters/ban5.jpg)
+     <p style="margin: 20px 0; width: 60%;"></p>
+     
+     
+     ### CSS:
+     
+     ```html
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-5/app.css">
+     ```
+     
+     ### JS:
+     
+     ```html
+     <script src="https://cdn.jsdelivr.net/gh/MaheshTechnicals/Quotify-Styler-Cdn/styles/style-5/app.js"></script>
+     ```
+    
  
   ## Donate
 
