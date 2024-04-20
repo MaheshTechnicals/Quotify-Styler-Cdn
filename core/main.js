@@ -2,7 +2,10 @@
 document.querySelectorAll(".quote-container-Mahesh-Technicals, .mycard, blockquote").forEach((blockquote) => {
   // Modify the text within the blockquote elements
   let modifiedText = blockquote.innerText.split(",").join(",\n").split("।").join("|\n");
-  blockquote.innerText = modifiedText;
+  // Removes double quotes from the beginning and end of a string
+  let fresh = modifiedText.replace(/^"|"$/g, "");
+  blockquote.innerText = fresh;
+
 
   // Create and append action container for each blockquote
   let actionContainer = document.createElement("div");
