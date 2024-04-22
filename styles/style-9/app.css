@@ -1,4 +1,3 @@
-
 /* Style 9 : Multi Color Mode. By Mahesh Technicals. */
 
 .quote-container-Mahesh-Technicals,
@@ -23,6 +22,7 @@ blockquote {
   background-size: cover;
   background-repeat: no-repeat;
   object-fit: center;
+  font-weight: bold;
 }
 
 blockquote:before,
