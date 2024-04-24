@@ -1,0 +1,233 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  letter-spacing: 1.5px;
+}
+
+
+body {
+  background: #222222;
+  color: white;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+ul {
+  margin-left: auto;
+}
+
+ul li {
+  padding: 5px 10px;
+  text-align: center;
+}
+
+ul li :hover {
+  border-radius: 10px;
+  background: #222222;
+  color: white !important;
+  transition: all ease 0.6s;
+}
+
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  margin-bottom: 50px;
+  /* Change height to auto for responsiveness */
+}
+
+.hero .left,
+.hero .right {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero .left img {
+  max-width: 100%;
+  /* Adjusted max-width to fit container */
+  margin-bottom: -30px;
+  /* Adjusted margin for better spacing */
+}
+
+.hero .left h4 {
+  text-align: center;
+  margin: 20px 0;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: #B7AE7A;
+}
+
+.hero .left button {
+  display: block;
+  margin: 0 auto;
+  outline: none;
+  border: none;
+  color: black;
+  padding: 10px 30px;
+  text-align: center;
+  border-radius: 15px;
+  cursor: pointer;
+  background: #B7AE7A !important;
+  font-weight: bold;
+
+
+}
+
+.hero .left button:hover {
+  background: #222222 !important;
+  color: white !important;
+  transition: all ease 0.6s;
+  border: 1px solid #B7AE7A;
+}
+
+.right iframe {
+  width: 350px !important;
+  height: 200px;
+  border-radius: 10px;
+  border: 1px solid #B7AE7A;
+}
+
+
+
+h3 {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #B7AE7A;
+  border-radius: 15px;
+  text-transform: uppercase;
+  margin: 10px;
+  color: #B7AE7A;
+  margin-bottom: 50px;
+
+}
+
+.use {
+  display: flex;
+  flex-direction: column;
+  /* Default: vertical layout */
+  align-items: center;
+  margin-bottom: 50px;
+
+}
+
+.box {
+  width: 100%;
+  max-width: 400px;
+  /* Adjust max-width as needed */
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #B7AE7A;
+  border-radius: 10px;
+  text-align: center;
+  color: #222222;
+  height: 200px;
+
+}
+
+.box>div {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.box p {
+  font-size: 16px;
+}
+
+
+
+.styles-sec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  flex-wrap: wrap;
+
+
+}
+
+.style {
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.style img {
+  width: 350px;
+}
+
+.style p {
+  color: #B7AE7A;
+  font-weight: 500;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.copy {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.style button {
+  outline: none;
+  border: none;
+  color: #B7AE7A;
+  padding: 10px 10px;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  background: black;
+  border: 1px solid #B7AE7A;
+  font-weight: bold;
+  width: 150px;
+
+}
+
+.fa-css3-alt {
+  color: orange;
+}
+
+.fa-js {
+  color: yellow;
+}
+
+
+.fa-check {
+  color: #2ecc71;
+}
+
+
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+  color: #222222;
+  padding: 10px;
+  background: #B7AE7A !important;
+  font-weight: bold;
+}

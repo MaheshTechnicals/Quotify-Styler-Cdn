@@ -1,0 +1,39 @@
+/* Media query for desktop */
+@media (min-width: 768px) {
+  .use {
+    flex-direction: row;
+    /* Horizontal layout for desktop */
+    justify-content: center;
+    /* Center items horizontally */
+    flex-wrap: wrap;
+    /* Allow wrapping of boxes */
+  }
+
+  .box {
+    width: calc(50% - 20px);
+    /* Set width for each box, minus margin */
+    margin-right: 20px;
+    /* Add space between boxes */
+  }
+
+  .box:last-child {
+    margin-right: 0;
+    /* Remove margin from last box */
+  }
+}
+
+
+@media (min-width: 768px) {
+  .hero {
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70vh;
+    /* Restore height for larger screens */
+  }
+
+  .hero .left,
+  .hero .right {
+    width: 50%;
+    padding: 0 20px;
+  }
+}
