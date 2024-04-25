@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  user-select: none;
+
   letter-spacing: 1.5px;
 }
 
@@ -233,4 +233,28 @@ h3 {
   padding: 10px;
   background: #B7AE7A !important;
   font-weight: bold;
+}
+
+.allLogs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  width: 100%;
+}
+
+.log {
+  width: 90%;
+  max-width: 400px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding: 10px;
+}
+
+
+.log h4 {
+  color: #B7AE7A;
 }
