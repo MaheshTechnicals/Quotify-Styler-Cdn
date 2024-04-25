@@ -18,7 +18,7 @@ let getChangeLogs = async () => {
 
     let element = `<div class="log">
         <h4 class="mb-3">${name}</h4>
-        <p class="mb-5 text-primary">${time}</p>
+        <p class="mb-5 text-info"><i class="fa-regular fa-clock text-white"></i> ${time}</p>
         <pre class="text-light" >${description}</pre>
       </div>`
 
