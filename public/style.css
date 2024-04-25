@@ -239,14 +239,14 @@ h3 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
   align-items: center;
   width: 100%;
 }
 
 .log {
   width: 90%;
-  max-width: 400px;
+  max-width: 500px;
   height: auto;
   display: flex;
   flex-direction: column;
