@@ -7,7 +7,7 @@ let getChangeLogs = async () => {
 
   let res = await fetch(`https://api.github.com/repos/${owner}/${repo}/releases`)
   let data = await res.json()
-
+  allLogs.innerHTML = ""
 
   await Array.from(data).forEach((e) => {
 
