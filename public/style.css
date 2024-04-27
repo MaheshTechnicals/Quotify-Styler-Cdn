@@ -353,6 +353,12 @@ textarea {
   margin-bottom: 40px;
 }
 
+.contact-sec button:hover {
+  background: #B7AE7A;
+  color: #222222;
+  transition: all ease 0.6s;
+}
+
 .or {
   width: 100%;
   max-width: 800px;
