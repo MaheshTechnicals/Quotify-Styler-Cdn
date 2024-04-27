@@ -266,3 +266,24 @@ h3 {
   width: 300px;
   height: 200px;
 }
+
+#about {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+#about img {
+  width: 300px;
+}
+
+#about p {
+  width: 100%;
+  max-width: 800px;
+  color: #B7AE7A;
+
+
+}
