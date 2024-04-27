@@ -223,18 +223,6 @@ h3 {
 
 
 
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  margin-top: 40px;
-  color: #222222;
-  padding: 10px;
-  background: #B7AE7A !important;
-  font-weight: bold;
-}
-
 .allLogs {
   display: flex;
   flex-wrap: wrap;
@@ -329,4 +317,57 @@ h3 {
 .fe-box:hover {
   background: #222222;
 
+}
+
+
+.contact-sec {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.contact-sec input,
+textarea {
+  padding: 10px 15px;
+  width: 100%;
+  background: transparent;
+  outline: none;
+  border: 1px solid #B7AE7A;
+  color: #B7AE7A;
+  border-radius: 15px;
+}
+
+.contact-sec button {
+  padding: 10px 40px;
+  border: 1px solid #B7AE7A;
+  outline: none;
+  background: transparent;
+  color: #B7AE7A;
+  border-radius: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 40px;
+  color: #222222;
+  padding: 10px;
+  background: #B7AE7A !important;
+  font-weight: bold;
 }
