@@ -305,7 +305,7 @@ h3 {
   height: 150px;
   width: 45%;
   max-width: 200px;
-  border: 1px solid #B7AE7A;
+  border: 1px inset #B7AE7A;
   display: flex;
   justify-content: center;
   padding: 10px;
