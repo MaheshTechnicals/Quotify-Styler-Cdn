@@ -355,6 +355,7 @@ textarea {
 
 .or {
   width: 100%;
+  max-width: 800px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -369,6 +370,20 @@ textarea {
   padding: 10px;
 }
 
+.social {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+
+.social i {
+  font-size: 30px;
+  color: #B7AE7A;
+}
 
 
 
