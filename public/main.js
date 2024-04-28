@@ -18,7 +18,7 @@ let stylesSec = document.querySelector(".styles-sec");
 
 Array.from(allData).forEach((e, i) => {
   let element = `<div class="style">
-      <img src="${e.img}" alt="style 1">
+      <img src="${e.img}" alt="${e.name}">
       <p>${e.name}</p>
       
       <div class="copy">
