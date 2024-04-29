@@ -394,10 +394,80 @@ textarea {
   color: #B7AE7A;
 }
 
+.don {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 1000px;
+  gap: 40px;
+}
+
+.don-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  border: 1px solid #B7AE7A;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.don-box img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.UPI {
+  color: #222222;
+  padding: 5px;
+  background: #B7AE7A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
 
 
+mac {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 
+.fa-paypal {
+  font-size: 150px
+}
+
+.don-box button {
+  border: none;
+  outline: none;
+  padding: 10px 40px;
+  text-align: center;
+  color: #222222;
+  background: #B7AE7A;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+
+.don-info {
+  width: 100%;
+  max-width: 1000px;
+  padding: 20px 50px;
+  margin: 0 auto;
+  color: #B7AE7A;
+}
 
 
 
