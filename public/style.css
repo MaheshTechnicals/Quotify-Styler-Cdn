@@ -326,6 +326,7 @@ h3 {
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin: 0 auto;
   gap: 20px;
 }
 
@@ -365,6 +366,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0 auto;
 
 
 }
@@ -383,6 +385,7 @@ textarea {
   align-items: center;
   justify-content: center;
   gap: 15px;
+  margin: 0 auto;
 }
 
 
