@@ -57,6 +57,10 @@ ul li :hover {
   align-items: center;
 }
 
+.hero .right {
+  max-width: 500px;
+}
+
 .hero .left img {
   max-width: 100%;
   /* Adjusted max-width to fit container */
