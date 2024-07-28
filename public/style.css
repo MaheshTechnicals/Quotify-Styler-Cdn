@@ -38,6 +38,27 @@ ul li :hover {
 }
 
 
+/* Custom styles for the dropdown menu */
+.custom-dropdown-menu {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Custom styles for the dropdown items */
+.custom-dropdown-menu .dropdown-item {
+  background-color: transparent !important;
+  color: #222222 !important;
+  font-weight: bold !important;
+  padding: 10px;
+}
+
+/* Custom hover effect for dropdown items */
+.custom-dropdown-menu .dropdown-item:hover {
+  background: #222222 !important;
+  color: white !important;
+}
+
 .hero {
   display: flex;
   flex-direction: column;
