@@ -1,0 +1,92 @@
+/*/* Style 12 : Reaction Mode. By Mahesh Technicals. */
+
+.quote-container-Mahesh-Technicals,
+.mycard,
+blockquote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 40px auto;
+  box-shadow: 0 0 5px #ccf, rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 300px;
+  text-align: center;
+  color: #222222 !important;
+  background-size: cover;
+  border-radius: 15px;
+  transition: background-image 0.3s;
+  border-left: 3px solid #ff00cc;
+  border-right: 3px solid #ff00cc;
+  border-top: 3px solid #3333ff;
+  border-bottom: 3px solid #3333ff;
+  font-weight: 500;
+}
+
+blockquote:before,
+blockquote:after {
+  display: none !important;
+}
+
+.quote-actions-Mahesh-Technicals {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.quote-actions-Mahesh-Technicals span {
+  padding: 5px 20px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border-radius: 10px;
+  align-items: center;
+}
+
+.quote-actions-Mahesh-Technicals span i {
+  color: white;
+}
+
+.quote-actions-Mahesh-Technicals .copy-action-Mahesh-Technicals {
+  background: linear-gradient(135deg, #ff00cc, #3333ff);
+}
+
+.quote-actions-Mahesh-Technicals .facebook-action-Mahesh-Technicals {
+  background: linear-gradient(135deg, #ff00cc, #3333ff);
+}
+
+.quote-actions-Mahesh-Technicals .whatsapp-action-Mahesh-Technicals {
+  background: linear-gradient(135deg, #ff00cc, #3333ff);
+}
+
+.quote-actions-Mahesh-Technicals .telegram-action-Mahesh-Technicals {
+  background: linear-gradient(135deg, #ff00cc, #3333ff);
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+  /* Your styles for Windows laptops go here */
+  .quote-container-Mahesh-Technicals,
+  .mycard,
+  blockquote {
+    width: 500px;
+    font-size: 16px;
+  }
+
+  .quote-actions-Mahesh-Technicals {
+    margin-top: 40px;
+    justify-content: space-evenly;
+  }
+
+  .quote-actions-Mahesh-Technicals span {
+    padding: 10px 30px;
+  }
+
+}
