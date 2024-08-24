@@ -56,7 +56,7 @@ document.querySelectorAll(".quote-container-Mahesh-Technicals, .mycard, blockquo
   let modifiedText = blockquote.innerText.split(",").join(",\n").split("।").join("|\n");
   // Removes double quotes from the beginning and end of a string
   let fresh = modifiedText.replace(/^"|"$/g, "");
-  blockquote.innerText = getRandomReaction() + "\n\n" + fresh + "\n" + getRandomReaction();
+  blockquote.innerText = getRandomReaction() + "\n" + fresh + "\n" + getRandomReaction();
 
 
   // Create and append action container for each blockquote
