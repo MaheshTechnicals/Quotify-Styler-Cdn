@@ -12,6 +12,7 @@ blockquote {
   margin: 40px auto;
   box-shadow: 0 0 5px #ccf, rgba(0, 0, 0, 0.35) 0px 5px 15px;
   width: 300px;
+  font-size: 18px;
   font-family: Verdana;
   text-align: center;
   letter-spacing: 1.5px;

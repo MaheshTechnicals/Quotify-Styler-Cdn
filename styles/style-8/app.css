@@ -17,6 +17,7 @@ blockquote {
   text-align: center;
   letter-spacing: 1.5px;
   background: black;
+  font-size: 18px;
   color: white !important;
   background-image: url("https://raw.githubusercontent.com/MaheshTechnicals/Quotify-Styler-Cdn/main/res/5.jpg");
   background-size: cover;

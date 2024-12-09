@@ -18,6 +18,7 @@ blockquote {
   letter-spacing: 1.5px;
   background: black;
   color: white !important;
+  font-size: 18px;
 }
 
 blockquote:before,

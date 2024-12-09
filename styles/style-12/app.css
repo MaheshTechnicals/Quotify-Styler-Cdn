@@ -22,6 +22,7 @@ blockquote {
   border-top: 3px solid #3333ff;
   border-bottom: 3px solid #3333ff;
   font-weight: 500;
+  font-size: 18px;
 }
 
 blockquote:before,
